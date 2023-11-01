@@ -2396,6 +2396,10 @@
     "modified": "2019-03-23T22:15:27.700Z",
     "contributors": ["MarceloBRN", "sergiorg"]
   },
+  "Web/API/CanvasRenderingContext2D/globalCompositeOperation": {
+    "modified": "2019-03-18T21:37:01.783Z",
+    "contributors": ["CarlosRodrigues"]
+  },
   "Web/API/CanvasRenderingContext2D/lineTo": {
     "modified": "2019-03-23T22:18:50.928Z",
     "contributors": ["MarceloBRN"]
@@ -2471,10 +2475,6 @@
   "Web/API/Canvas_API/Tutorial/Compositing": {
     "modified": "2019-03-23T22:12:17.031Z",
     "contributors": ["CarlosRodrigues", "Fernandolrs", "mak213k"]
-  },
-  "Web/API/Canvas_API/Tutorial/Compositing/Example": {
-    "modified": "2019-03-18T21:37:01.783Z",
-    "contributors": ["CarlosRodrigues"]
   },
   "Web/API/Canvas_API/Tutorial/Drawing_shapes": {
     "modified": "2020-06-20T19:01:22.926Z",

@@ -550,6 +550,7 @@
 /pt-BR/docs/Web/API/BatteryManager/ondischargintimechange	/pt-BR/docs/Web/API/BatteryManager/dischargingtimechange_event
 /pt-BR/docs/Web/API/BatteryManager/onlevelchange	/pt-BR/docs/Web/API/BatteryManager/levelchange_event
 /pt-BR/docs/Web/API/Canvas_API/A_basic_ray-caster	/pt-BR/docs/orphaned/Web/API/Canvas_API/A_basic_ray-caster
+/pt-BR/docs/Web/API/Canvas_API/Tutorial/Compositing/Example	/pt-BR/docs/Web/API/CanvasRenderingContext2D/globalCompositeOperation
 /pt-BR/docs/Web/API/Console.timeEnd	/pt-BR/docs/Web/API/console/timeEnd
 /pt-BR/docs/Web/API/Coordinates	/pt-BR/docs/Web/API/GeolocationCoordinates
 /pt-BR/docs/Web/API/Coordinates/altitude	/pt-BR/docs/Web/API/GeolocationCoordinates/altitude
@@ -776,7 +777,7 @@
 /pt-BR/docs/Web/Guide/HTML/Canvas_tutorial/Applying_styles_and_colors	/pt-BR/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors
 /pt-BR/docs/Web/Guide/HTML/Canvas_tutorial/Basic_animations	/pt-BR/docs/Web/API/Canvas_API/Tutorial/Basic_animations
 /pt-BR/docs/Web/Guide/HTML/Canvas_tutorial/Compositing	/pt-BR/docs/Web/API/Canvas_API/Tutorial/Compositing
-/pt-BR/docs/Web/Guide/HTML/Canvas_tutorial/Compositing/Exemplo	/pt-BR/docs/Web/API/Canvas_API/Tutorial/Compositing/Example
+/pt-BR/docs/Web/Guide/HTML/Canvas_tutorial/Compositing/Exemplo	/pt-BR/docs/Web/API/CanvasRenderingContext2D/globalCompositeOperation
 /pt-BR/docs/Web/Guide/HTML/Canvas_tutorial/Conclusão	/pt-BR/docs/Web/API/Canvas_API/Tutorial/Finale
 /pt-BR/docs/Web/Guide/HTML/Canvas_tutorial/Drawing_shapes	/pt-BR/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
 /pt-BR/docs/Web/Guide/HTML/Canvas_tutorial/Drawing_text	/pt-BR/docs/Web/API/Canvas_API/Tutorial/Drawing_text
